@@ -1,0 +1,12 @@
+import os
+cwd=os.get cwd()
+print("current working directory :",cwd)
+
+h
+a
+r
+i
+h
+a
+r
+i

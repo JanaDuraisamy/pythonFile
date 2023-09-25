@@ -1,0 +1,13 @@
+f=open("abc.txt","a")
+# print("filename:",f.name)
+# print("file mode:",f.mode)
+# f.write("Hari\n")
+# f.write("Software\n")
+# f.write("Solutions\n")
+list1=["h\n","a\n","r\n","i\n"]
+f.writelines(list1)
+# print("read a file:",f.readable())
+# print("write a file:",f.writable())
+# print("file closed:",f.closed)
+# f.close()
+# print("if file is closed:",f.closed)
